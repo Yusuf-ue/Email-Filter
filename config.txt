@@ -1,0 +1,6 @@
+w bitcoin -10
+w matlab 25
+d tu-berlin.de 2
+d testdomain.com -2
+l 1000 -10
+d gmail.com -100

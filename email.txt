@@ -1,0 +1,8 @@
+[[sender:]]
+testsender@testdomain.com
+[[recipient:]]
+testrec@yourdomain.org
+[[body:]]
+Zeile 1.
+Line 2.
+Test wort. Matlab, bitcoin.
